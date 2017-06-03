@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Symbols
+*.pdb
+
+# Linker files
+*.ilk
